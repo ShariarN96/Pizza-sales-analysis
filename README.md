@@ -31,7 +31,7 @@ The dataset was obtained from **Maven Analytics**, and includes the following ta
 - Used DAX functions for further slicing and aggregating sales insights
 
 📁 [View the SQL Code](https://github.com/ShariarN96/Pizza-sales-analysis/blob/main/pizza.sql)  
-📊 [Power BI Dashboard]() *(optional — if you can share or host it)*
+📊 ![Power BI Dashboard](pizza_dashboard.png)
 
 ---
 
