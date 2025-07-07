@@ -32,7 +32,7 @@ The dataset was obtained from **Maven Analytics**, and includes the following ta
 
 📁 [View the SQL Code](https://github.com/ShariarN96/Pizza-sales-analysis/blob/main/pizza.sql)  
 🔗 [View the Dashboard Demo](https://shanenn.carrd.co/assets/videos/video02.mp4?v=62bbb88d)
-[Pizza Sales Dashboard](pizza_dashboard.png)
+![Pizza Sales Dashboard](pizza_dashboard.png)
 
----
+
 
