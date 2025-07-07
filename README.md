@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis & Visualization
 
-A business intelligence project focused on analyzing pizza sales using **SQL** for data manipulation and **Power BI** for dashboard development. The goal was to uncover actionable insights to improve marketing strategies, optimize operations, and increase profitability.
+A business intelligence project focused on analyzing pizza sales using **SQL** for data manipulation and **Power BI** for dashboard development. The goal was to uncover actionable insights to improve marketing strategies, optimize operations, and increase profitability. 🔗 [See it on my portfolio](https://shanenn.carrd.co/#section04)
 
 ---
 
@@ -36,25 +36,3 @@ The dataset was obtained from **Maven Analytics**, and includes the following ta
 
 ---
 
-## 📌 Key Insights
-
-- **Top Revenue-Generating Pizzas**:  
-  The top 3 are all **chicken-based**:  
-  - Thai Chicken  
-  - Barbeque Chicken  
-  - California Chicken  
-  💰 Total revenue: **$127.61K**  
-  ➤ Promotions targeting chicken pizzas could be highly effective.
-
-- **Revenue by Pizza Category**:  
-  - 🏆 Classic: $220.05K  
-  - 🥈 Supreme: $208.20K  
-  - 🥉 Chicken: $195.92K  
-  - 🥬 Veggie: $193.69K
-
-- **Preferred Pizza Size**:  
-  - 🥇 Large > 🥈 Medium > 🥉 Small  
-  ➤ Upselling larger sizes may drive higher revenue per order.
-
-- **Sales by Day of the Week**:  
-  - **Friday**
